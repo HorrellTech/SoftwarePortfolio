@@ -1,2 +1,2 @@
 # SoftwarePortfolio
-[Page Link](https://www.horrelltech.github.io)
+[Page Link](www.horrelltech.github.io)
