@@ -1,5 +1,5 @@
 # SoftwarePortfolio
-[Page Link](https://horrelltech.github.io)
+[Page Link](https://horrelltech.github.io/index.html)
 
 ---
 # Feel free to add content and custom Front Matter to this file.
